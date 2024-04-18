@@ -219,7 +219,7 @@ log_in()
 # post_message()
 # scrape_user_profile()
 # send_connection_with_message() 
-send_message_to_user()
+# send_message_to_user()
 
 
 # Close the WebDriver
